@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rithik-Nadar
 - 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on Node.js
+- 🌱 I’m currently working on Django
+- 💞️ I’m looking to collaborate on Django
 - 📫 How to reach me rithiknadar1@gmail.com
 
 <!---
